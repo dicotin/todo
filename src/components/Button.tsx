@@ -2,7 +2,6 @@ import React from "react";
 
 type ButtonPropsType = {
     title:string
-
     callback:Function
 }
 export const Button = (props:ButtonPropsType) =>{
